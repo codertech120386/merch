@@ -1,0 +1,426 @@
+[
+    {
+      "id": "SKU001",
+      "name": "Laptop",
+      "sales": 1000,
+      "return_percent": 5,
+      "content_score": 75,
+      "notes": [
+        {
+          "content": "My name is Dhaval Chheda",
+          "created_at": "2025-06-05T03:52:16.456163+00:00",
+          "user_role": "brand_user"
+        },
+        {
+          "content": "s",
+          "created_at": "2025-06-05T03:57:49.233676+00:00",
+          "user_role": "brand_user"
+        }
+      ]
+    },
+    {
+      "id": "SKU002",
+      "name": "Smartphone",
+      "sales": 1200,
+      "return_percent": 6,
+      "content_score": 78,
+      "notes": []
+    },
+    {
+      "id": "SKU003",
+      "name": "Tablet",
+      "sales": 800,
+      "return_percent": 4,
+      "content_score": 70,
+      "notes": [
+        {
+          "content": "",
+          "created_at": "2025-06-05T16:00:55.518046+00:00",
+          "user_role": "brand_user"
+        }
+      ]
+    },
+    {
+      "id": "SKU050",
+      "name": "Wireless Headphones",
+      "sales": 950,
+      "return_percent": 5.9,
+      "content_score": 82.3,
+      "notes": []
+    },
+    {
+      "id": "SKU004",
+      "name": "Smartwatch",
+      "sales": 1100,
+      "return_percent": 5.5,
+      "content_score": 76,
+      "notes": []
+    },
+    {
+      "id": "SKU005",
+      "name": "Bluetooth Speaker",
+      "sales": 900,
+      "return_percent": 4.8,
+      "content_score": 74,
+      "notes": []
+    },
+    {
+      "id": "SKU006",
+      "name": "Gaming Console",
+      "sales": 1050,
+      "return_percent": 5.2,
+      "content_score": 77,
+      "notes": []
+    },
+    {
+      "id": "SKU007",
+      "name": "External Hard Drive",
+      "sales": 1150,
+      "return_percent": 6.1,
+      "content_score": 79,
+      "notes": []
+    },
+    {
+      "id": "SKU008",
+      "name": "Keyboard",
+      "sales": 950,
+      "return_percent": 5,
+      "content_score": 72,
+      "notes": []
+    },
+    {
+      "id": "SKU009",
+      "name": "Mouse",
+      "sales": 1000,
+      "return_percent": 5.3,
+      "content_score": 75.5,
+      "notes": []
+    },
+    {
+      "id": "SKU010",
+      "name": "Monitor",
+      "sales": 1200,
+      "return_percent": 6.5,
+      "content_score": 80,
+      "notes": []
+    },
+    {
+      "id": "SKU011",
+      "name": "Printer",
+      "sales": 850,
+      "return_percent": 4.7,
+      "content_score": 71,
+      "notes": []
+    },
+    {
+      "id": "SKU012",
+      "name": "Router",
+      "sales": 950,
+      "return_percent": 5.4,
+      "content_score": 73.5,
+      "notes": []
+    },
+    {
+      "id": "SKU013",
+      "name": "Webcam",
+      "sales": 1100,
+      "return_percent": 5.8,
+      "content_score": 76.5,
+      "notes": []
+    },
+    {
+      "id": "SKU014",
+      "name": "Projector",
+      "sales": 1050,
+      "return_percent": 5.6,
+      "content_score": 78,
+      "notes": []
+    },
+    {
+      "id": "SKU015",
+      "name": "Power Bank",
+      "sales": 900,
+      "return_percent": 4.9,
+      "content_score": 74.5,
+      "notes": []
+    },
+    {
+      "id": "SKU016",
+      "name": "Fitness Tracker",
+      "sales": 1150,
+      "return_percent": 6.2,
+      "content_score": 79.5,
+      "notes": []
+    },
+    {
+      "id": "SKU017",
+      "name": "Drone",
+      "sales": 950,
+      "return_percent": 5.1,
+      "content_score": 72.5,
+      "notes": []
+    },
+    {
+      "id": "SKU018",
+      "name": "Digital Camera",
+      "sales": 1000,
+      "return_percent": 5.4,
+      "content_score": 75.8,
+      "notes": []
+    },
+    {
+      "id": "SKU019",
+      "name": "VR Headset",
+      "sales": 1200,
+      "return_percent": 6.6,
+      "content_score": 80.5,
+      "notes": []
+    },
+    {
+      "id": "SKU020",
+      "name": "E-Reader",
+      "sales": 850,
+      "return_percent": 4.6,
+      "content_score": 70.5,
+      "notes": []
+    },
+    {
+      "id": "SKU021",
+      "name": "Smart Home Hub",
+      "sales": 950,
+      "return_percent": 5.3,
+      "content_score": 73,
+      "notes": []
+    },
+    {
+      "id": "SKU022",
+      "name": "Electric Scooter",
+      "sales": 1100,
+      "return_percent": 5.7,
+      "content_score": 76.8,
+      "notes": []
+    },
+    {
+      "id": "SKU023",
+      "name": "Portable SSD",
+      "sales": 1050,
+      "return_percent": 5.5,
+      "content_score": 77.5,
+      "notes": []
+    },
+    {
+      "id": "SKU024",
+      "name": "Smart Thermostat",
+      "sales": 900,
+      "return_percent": 4.8,
+      "content_score": 74.8,
+      "notes": []
+    },
+    {
+      "id": "SKU025",
+      "name": "Action Camera",
+      "sales": 1150,
+      "return_percent": 6.3,
+      "content_score": 79.8,
+      "notes": []
+    },
+    {
+      "id": "SKU026",
+      "name": "Streaming Device",
+      "sales": 950,
+      "return_percent": 5.2,
+      "content_score": 72.8,
+      "notes": []
+    },
+    {
+      "id": "SKU027",
+      "name": "Noise-Canceling Earbuds",
+      "sales": 1000,
+      "return_percent": 5.5,
+      "content_score": 76,
+      "notes": []
+    },
+    {
+      "id": "SKU028",
+      "name": "Gaming Chair",
+      "sales": 1200,
+      "return_percent": 6.7,
+      "content_score": 81,
+      "notes": []
+    },
+    {
+      "id": "SKU029",
+      "name": "Smart Light Bulbs",
+      "sales": 850,
+      "return_percent": 4.5,
+      "content_score": 70,
+      "notes": []
+    },
+    {
+      "id": "SKU030",
+      "name": "Electric Kettle",
+      "sales": 950,
+      "return_percent": 5.4,
+      "content_score": 73.3,
+      "notes": []
+    },
+    {
+      "id": "SKU031",
+      "name": "Coffee Maker",
+      "sales": 1100,
+      "return_percent": 5.6,
+      "content_score": 77,
+      "notes": []
+    },
+    {
+      "id": "SKU032",
+      "name": "Air Purifier",
+      "sales": 1050,
+      "return_percent": 5.4,
+      "content_score": 77.8,
+      "notes": []
+    },
+    {
+      "id": "SKU033",
+      "name": "Electric Toothbrush",
+      "sales": 900,
+      "return_percent": 4.7,
+      "content_score": 75,
+      "notes": []
+    },
+    {
+      "id": "SKU034",
+      "name": "Hair Dryer",
+      "sales": 1150,
+      "return_percent": 6.4,
+      "content_score": 80,
+      "notes": []
+    },
+    {
+      "id": "SKU035",
+      "name": "Rice Cooker",
+      "sales": 950,
+      "return_percent": 5.3,
+      "content_score": 73.5,
+      "notes": []
+    },
+    {
+      "id": "SKU036",
+      "name": "Blender",
+      "sales": 1000,
+      "return_percent": 5.6,
+      "content_score": 76.5,
+      "notes": []
+    },
+    {
+      "id": "SKU037",
+      "name": "Microwave Oven",
+      "sales": 1200,
+      "return_percent": 6.8,
+      "content_score": 81.5,
+      "notes": []
+    },
+    {
+      "id": "SKU038",
+      "name": "Vacuum Cleaner",
+      "sales": 850,
+      "return_percent": 4.4,
+      "content_score": 70.3,
+      "notes": []
+    },
+    {
+      "id": "SKU039",
+      "name": "Dishwasher",
+      "sales": 950,
+      "return_percent": 5.5,
+      "content_score": 73.8,
+      "notes": []
+    },
+    {
+      "id": "SKU040",
+      "name": "Refrigerator",
+      "sales": 1100,
+      "return_percent": 5.8,
+      "content_score": 77.5,
+      "notes": []
+    },
+    {
+      "id": "SKU041",
+      "name": "Washing Machine",
+      "sales": 1050,
+      "return_percent": 5.6,
+      "content_score": 78.3,
+      "notes": []
+    },
+    {
+      "id": "SKU042",
+      "name": "Air Conditioner",
+      "sales": 900,
+      "return_percent": 4.6,
+      "content_score": 75.3,
+      "notes": []
+    },
+    {
+      "id": "SKU043",
+      "name": "Water Heater",
+      "sales": 1150,
+      "return_percent": 6.5,
+      "content_score": 80.3,
+      "notes": []
+    },
+    {
+      "id": "SKU044",
+      "name": "Ceiling Fan",
+      "sales": 950,
+      "return_percent": 5.4,
+      "content_score": 73.8,
+      "notes": []
+    },
+    {
+      "id": "SKU045",
+      "name": "Electric Iron",
+      "sales": 1000,
+      "return_percent": 5.7,
+      "content_score": 76.8,
+      "notes": []
+    },
+    {
+      "id": "SKU046",
+      "name": "Smart Refrigerator",
+      "sales": 1200,
+      "return_percent": 6.9,
+      "content_score": 82,
+      "notes": []
+    },
+    {
+      "id": "SKU047",
+      "name": "Smart Washing Machine",
+      "sales": 850,
+      "return_percent": 4.3,
+      "content_score": 70.5,
+      "notes": []
+    },
+    {
+      "id": "SKU048",
+      "name": "Smart Air Conditioner",
+      "sales": 950,
+      "return_percent": 5.6,
+      "content_score": 74,
+      "notes": []
+    },
+    {
+      "id": "SKU049",
+      "name": "Smart Water Heater",
+      "sales": 1100,
+      "return_percent": 5.9,
+      "content_score": 77.8,
+      "notes": []
+    }
+  ]
+  
+  
+  
+  
+  
+  
+  
