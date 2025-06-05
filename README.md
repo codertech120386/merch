@@ -13,4 +13,5 @@
 - Add more statistical charts
 - work on the css
 - focus more on code quality
-  **NOTE** backend and frontend folders have their specific documentation
+- can improve quality of documentation
+- **NOTE** backend and frontend folders have their specific documentation
